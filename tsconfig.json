@@ -11,10 +11,10 @@
     // work with TypeScript.
     "baseUrl": ".",
     "paths": {
-      "sample-app/tests/*": [
+      "ember-demo-components/tests/*": [
         "tests/*"
       ],
-      "sample-app/*": [
+      "ember-demo-components/*": [
         "app/*"
       ],
       "*": [

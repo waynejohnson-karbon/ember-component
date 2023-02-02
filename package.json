@@ -1,8 +1,8 @@
 {
-  "name": "sample-app",
+  "name": "ember-demo-components",
   "version": "0.0.0",
   "private": true,
-  "description": "Small description for sample-app goes here",
+  "description": "Demo component proof of concept.",
   "repository": "",
   "license": "MIT",
   "author": "",
